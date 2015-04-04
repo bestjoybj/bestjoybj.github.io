@@ -1,6 +1,6 @@
 ---
 layout: post
-title: beginning
+title: Beginning
 ---
 
 Love you, 老敏敏
