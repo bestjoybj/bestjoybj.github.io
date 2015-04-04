@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-新手小白一只，想做个大白。
+新手小白一只，目标是做个大白。
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+毕业于南京大学，目前就读于上海技物所。
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[675839352@qq.com](mailto:675839352@qq.com)
