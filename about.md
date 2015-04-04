@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+新手小白一只，想做个大白。
 
 ### More Information
 
